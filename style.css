@@ -1,5 +1,5 @@
 ﻿body {
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -9,8 +9,9 @@
 header {
     background: #003366;
     color: #fff;
-    padding: 10px 20px;
+    padding: 3px;
     text-align: center;
+    font-size: 1.2rem;
 }
 
 header img {
@@ -40,6 +41,7 @@ nav ul {
 .hero {
     text-align: center;
     padding: 20px;
+    font-size: 1.3rem;
 }
 
     .hero img {
@@ -53,13 +55,15 @@ footer {
     background: #003366;
     color: white;
     text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
+    padding: 3px;
+    margin-top: 4px;
+    font-size: 1.2rem;
 }
 
 .data {
     text-align: center;
     padding: 20px;
+    font-size: 1.3rem;
 }
 
 .data img {
@@ -72,16 +76,5 @@ footer {
     margin: 0 auto;
     padding: 20px;
     text-justify: inter-word;
-}
-
-    .history img {
-        max-width: 10vw;
-        height: auto;
-    }
-
-h2 {
-    text-align: center;
-}
-
-@media (min-width: 1920px) {
+    font-size: 1.3rem;
 }
